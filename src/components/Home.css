@@ -1,0 +1,17 @@
+.home-img {
+    position: relative;
+    width: 100vw;
+    height: 100vh;
+    background: url("../components/sunny.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    display: flex;
+}
+#startRow{
+    margin-top: 30%;
+}
+#toStartBtn{
+    width: 500px;
+    height: auto;
+}

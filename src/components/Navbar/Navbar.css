@@ -1,0 +1,13 @@
+.navbar{
+    background-color: white;
+    font-family: 'Bangers', cursive;
+    font-size: 20px;
+
+}
+.navbar-brand{
+    margin-left: 5%;
+    color: black;
+}
+.navbar-text{
+    margin-left: 35%;
+}

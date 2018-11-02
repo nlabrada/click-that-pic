@@ -1,0 +1,11 @@
+.card {
+    width: 18rem;
+    border: none;
+    background-color: transparent;
+}
+
+.cardImg{
+    max-width: 95%;
+    height: auto;
+    padding: 4%;
+}
